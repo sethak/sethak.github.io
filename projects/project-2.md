@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/project2.jpg
-title: 
+title: Mayhem 
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2016-03-16
@@ -12,9 +12,7 @@ labels:
 summary: My second career project in my computer science career that involves collecting moving objects. 
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
-
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Mayhem was my second project that I ever created in my computer science career. The basic idea of the project was to collect all the coins that were moving while avoiding obstacles at the same time. 
 
 Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
 
