@@ -1,17 +1,15 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
+image: images/project2.jpg
+title: 
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2016-03-16
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Java
+  
+summary: My second career project in my computer science career that involves collecting moving objects. 
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
