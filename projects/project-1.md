@@ -17,7 +17,7 @@ For this project, the point was to collect items and to avoid obstacles. The ide
 
 Here is some code that illustrates how we read values from the line sensors:
 
-You can learn more at the [Project 1 (ICS 111](https://www.youtube.com/watch?v=8Ivwb-3eVxQ).
+You can learn more at the [Project 1 (ICS 111)](https://www.youtube.com/watch?v=8Ivwb-3eVxQ).
 
 
 
