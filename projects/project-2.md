@@ -18,6 +18,6 @@ This was another solo project and all the code was written by me. I was able to 
 
 I was able to learn a lot from this project as well. This project was similar to the first one, but involved more. An example was the movement of the coins. This project took me more time than usual because it was more difficult. It required a lot of patience and their were times where I would get frustrated when something wouldn't work. A great tip is to never be afraid to ask questions and to work in groups. Like we are learning in ICS 314 right now, someone may be able to spot an error much quicker than you. For this project I learned to use my resources more such as the internet whenever I would get stuck and this really helped a lot. 
 
-Source code located in the youtube link below. 
+Source Code available in the youtube link located below. 
 
-[ICS 111 
+You can learn more at the [Project 2 (ICS 111)](https://www.youtube.com/watch?v=DKtTHHT6we8).
