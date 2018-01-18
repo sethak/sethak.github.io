@@ -5,7 +5,7 @@ image: images/project3.jpg
 title: Training
 permalink: projects/training
 # All dates must be YYYY-MM-DD format!
-date: Summer 2017
+date: 2017-05-18
 labels:
   - Air Force 
 summary: Field Training was an experience that challenged me mentally, physically, and emotionally. 
