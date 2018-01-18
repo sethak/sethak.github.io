@@ -5,7 +5,7 @@ image: images/project3.jpg
 title: Field Training 
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2017-05-18 - 2017-06-04
+date: 2017-05-18
 labels:
   - Lisp
   - GitHub
