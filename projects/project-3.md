@@ -2,14 +2,13 @@
 layout: project
 type: project
 image: images/project3.jpg
-title: Field Training 
-permalink: projects/cotton
+title: Training
+permalink: projects/training
 # All dates must be YYYY-MM-DD format!
 date: 2017-05-18
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Air Force 
+summary: Field Training was an experience that challenged me mentally, physically, and emotionally. 
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
