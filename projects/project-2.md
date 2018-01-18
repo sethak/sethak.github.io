@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/project2.jpg
 title: Mayhem 
-permalink: projects/vacay
+permalink: projects/mayhem
 # All dates must be YYYY-MM-DD format!
 date: 2016-03-16
 labels:
