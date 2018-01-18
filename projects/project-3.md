@@ -1,11 +1,11 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
+image: images/project3.jpg
+title: Field Training 
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2017-05-18 - 2017-06-04
 labels:
   - Lisp
   - GitHub
