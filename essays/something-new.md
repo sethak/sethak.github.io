@@ -4,7 +4,7 @@ type: essay
 title: Something New
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-18
-labels:
+labels: Sofware Engineering 
 ---
 # Intro 
 Going into my first semester I still did not declare a major and it wasn't until my sophomore year that I declared computer science as my major. To be honest computer science was the only major I had an interest in. I looked at every other major at UH and it did not really interest me at all. Software engineering has always interested me because I love technology and really want to know how it works. Going into computer science, I didn't really know what I was getting myself into. I had no experience with coding and many of my fellow classmates were far ahead of me already. I was pretty scared I was going to fall behind and I did for a little. Then I realized computer science is like going to the gym. It is repetition and lots of practice. You are not going to see results if you go to the gym once a week, you need to go periodically. This is the same with computer science, you need to practice, practice, and practice. Software engineering is very unique and different from anything I learned in my entire life, which is why I like it. The work is also very rewarding. I am particularly interested in the security side of computer science because I will be going into the Air Force once I finish college and plan to get involved with cyber warfare once I commision. 
