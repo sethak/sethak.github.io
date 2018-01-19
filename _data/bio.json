@@ -77,6 +77,16 @@
   ],
   "education": [
     {
+      "institution": "University of Oregon, Eugene, OR",
+      "area": "Kinesiology",
+      "studyType": "B.S.",
+      "startDate": "2014-09-22",
+      "endDate": "2015-06-12",
+      "gpa": "3.3",
+      "courses": [
+      ]
+    },
+    {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2019)",
       "studyType": "B.S.",
