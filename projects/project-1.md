@@ -11,6 +11,8 @@ labels:
 summary: This is my first ever project created in my computer science career, I hope you all enjoy! 
 ---
 
+<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+
 This was my first project that I have ever coded not only in my computer ccience career, but the first coding project I did in my entire life. I did not have any experience with coding until I had reached this class. I was pretty proud of this particular project because it was a milestone that I was able to complete. The difficulty of the project wasn't to hard, but its amazing how writing simple code can create a very interesting project. The language that this project was written in was java. For this project, the point was to collect items and to avoid obstacles. The idea was pretty straight forward, but the game was harder than it seemed. In the youtube link I posted at the end you can see it is hard to differentiate between what the obstacles were and what items needed to be collected. The placement of the obstacles made retrieving the items that much harder. Although this assignment didn't seem to hard to make at first, it was difficult for someone with no coding experience. So I look at this project as a big milestone in my computer science career. 
 
 This project was done solo, so all the work came from myself. I was able to get some help from teaching assistants, the professor, and my other classmates whenever I would get stuck. I was responsible for writing all the code, using the necessary pictures and sounds, and making sure the project worked properly. My role or the idea of this project was to apply the basics of what I learned up to that point and apply it to this project. 
