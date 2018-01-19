@@ -13,10 +13,5 @@ I joined the Air Force Reserve Officer Training or AFROTC in the Fall of 2015 be
 # Computer Science 
 When I declared Computer Science as my major I had no idea what I was getting into. I decided to pursue this as my major because I loved techniology and video games. I also pursued computer science in the hopes of having a better chance of getting a scholarship for AFROTC. You are more competitive when you have a technical degree. By the grace of God I was able to earn a scholarship. Getting a scholarship was awesome, but that also meant I wasn't able to change my major. If I wanted to change my major I would lost my scholarship, so changing my major was not an option. Taking my first couple of courses in the computer science department wasn't to bad. My third semester in my major is when it got hard and each semester has been difficult since. I was struggiling and I felt at times I just wanted to quit. Even though I got help, I was still having a hard time with things. Luckily I took the time to watch youtube videos and really practice. This major reqauires a lot of dedication and practice. I realized that and semesters are still difficult but manageable. I was struggiling a lot and failing assignments, but keeping at it and seeking help was the best solution. 
 
-
-
-
-
-
-
+# 
 Failing is a part of life and a huge part of success. 
