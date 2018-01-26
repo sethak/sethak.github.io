@@ -1,3 +1,4 @@
+---
 layout: essay
 type: essay
 title: Asking Questions the Right Way
