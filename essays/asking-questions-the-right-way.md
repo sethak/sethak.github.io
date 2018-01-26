@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Asking Questions the Right Way
 #All dates must be YYYY-MM-DD format!
-date: 2018-01-18
+date: 2018-01-25
 labels: Sofware Engineering 
 ---
 # What Are Wrong Questions
