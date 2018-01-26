@@ -6,6 +6,7 @@ title: Asking Questions the Right Way
 date: 2018-01-25
 labels: Sofware Engineering 
 ---
+<img class="ui medium right floated image" src="/images/essay3.gif">
 # What Are Wrong Questions
 Ever since I was a kid I use to always believe that there were never any wrong questions to ask. Teachers 
 and guest speakers would always say “Any questions? Don’t worry there are not any stupid questions.”
