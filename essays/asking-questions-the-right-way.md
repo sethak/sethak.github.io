@@ -1,7 +1,7 @@
 layout: essay
 type: essay
 title: Asking Questions the Right Way
-# All dates must be YYYY-MM-DD format!
+#All dates must be YYYY-MM-DD format!
 date: 2018-01-18
 labels: Sofware Engineering 
 ---
@@ -39,9 +39,7 @@ opinion you should start off broad and then get more specific. If you can’t fi
 friend for help because someone may know the answer and all you need to do is ask. If no one can help
 you I would post the question on stack exchange or stack overflow. If all else fails then I would go to the
 teacher for help. Notice how going to the teacher is last It is important to use all resources available to you
-before going to the teacher. In this “stack overflow,
-https://stackoverflow.com/questions/2274242/using-a-variable-for-a-key-in-a-javascript-object-literal”
-question, the person asking the question does a great job of asking a smart question. He displays pictures
+before going to the teacher. In this [stack overflow question](https://stackoverflow.com/questions/2274242/using-a-variable-for-a-key-in-a-javascript-object-literal),the person asking the question does a great job of asking a smart question. He displays pictures
 of two different JavaScript code he wrote. They ask why one-way works over another. This is smart
 because he is specific with the question. They don’t just ask why his second picture doesn’t work, but
 actually gives an example of a picture that works. This shows that he or she cares on the reason why one
@@ -57,8 +55,7 @@ above. The person asking the question does not care about learning or solving th
 is the solution. In most cases, these solutions do not get answered because the community does not want
 to do other people’s work. The community wants to assist people and help them learn the material. When
 they help people out, eventually the people that use to be asking the questions are the ones helping answer
-them. In this “stack overflow,
-https://stackoverflow.com/questions/48456998/error-illegal-conversion-for-date-or-time-type​” question
+them. In this [stack overflow question](https://stackoverflow.com/questions/48456998/error-illegal-conversion-for-date-or-time-type),
 you can see the person just asked how to solve the problem. They posted the entire code and gave the
 specific instructions on what needed to get done. This post has no responses yet. Even though the post
 may have been posted recently, I expect either no solutions or people not helping much. The reason is
