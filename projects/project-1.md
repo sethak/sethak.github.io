@@ -19,7 +19,7 @@ This project was done solo, so all the work came from myself. I was able to get 
 
 I was able to learn a lot from this project. This project taught me that it takes time and patience when creating computer science projects, especially ones that require coding. I found it very important to take breaks and step away from the computer to let my brain rest and refresh. This project also was done over several weeks, with milestones. The milestones were parts of the project needed to be completed. These milestones were a huge lesson that I applied to every project because it is very important to start on things early. One last thing I learned was to appreciate the bugs in the code. The reason I say this is because if I see more and more bugs in my code, then for future projects these same bugs might appear and I will know how to fix them. 
 
-Source Code available in the youtube link located below. 
+Source Code available in the YouTube link located below. 
 
 You can learn more at the [Project 1 (ICS 111)](https://www.youtube.com/watch?v=8Ivwb-3eVxQ).
 
