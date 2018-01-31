@@ -17,7 +17,9 @@ This was my first project that I have ever coded not only in my computer science
 
 This project was done solo, so all the work came from myself. I was able to get some help from teaching assistants, the professor, and my other classmates whenever I would get stuck. I was responsible for writing all the code, using the necessary pictures and sounds, and making sure the project worked properly. My role or the idea of this project was to apply the basics of what I learned up to that point and apply it to this project. 
 
-I was able to learn a lot from this project. This project taught me that it takes time and patience when creating computer science projects, especially ones that require coding. I found it very important to take breaks and step away from the computer to let my brain rest and refresh. This project also was done over several weeks, with milestones. The milestones were parts of the project needed to be completed. These milestones were a huge lesson that I applied to every project because it is very important to start on things early. One last thing I learned was to appreciate the bugs in the code. The reason I say this is because if I see more and more bugs in my code, then for future projects these same bugs might appear and I will know how to fix them. 
+I was able to learn a lot from this project. This project taught me that it takes time and patience when creating computer science projects, especially ones that require coding. I found it very important to take breaks and step away from the computer to let my brain rest and refresh. This project also was done over several weeks, with milestones. The milestones were parts of the project needed to be completed. These milestones were a huge lesson that I applied to every project because it is very important to start on things early. One last thing I learned was to appreciate the bugs in the code. The reason I say this is because if I see more and more bugs in my code, then for future projects these same bugs might appear and I will know how to fix them. This project was a lot of fun though!  
+
+
 
 Source Code available in the YouTube link located below. 
 
