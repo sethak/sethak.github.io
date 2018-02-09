@@ -6,6 +6,7 @@ title: Coding Standards Are a Pain, but I Love It
 date: 2018-02-08
 labels: 
 - Software Engineering 
+- JavaScript
 ---
 <img class="ui medium right floated image" src="/images/ESLint.jpg">
 # Pain 
