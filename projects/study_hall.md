@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/project1.jpg
+image: images/studyhall.jpg
 title: Study Hall 
 permalink: projects/studyhall
 # All dates must be YYYY-MM-DD format!
